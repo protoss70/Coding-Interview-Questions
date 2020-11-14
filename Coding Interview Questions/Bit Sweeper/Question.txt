@@ -1,0 +1,6 @@
+Given input of an 8 bit number for example 11010010
+Replace the first number with the second and the third number with the fourth and so on
+Result:11100001
+And then make ones zero and zeros one
+Result:00011110
+And do this in just one line of code.
